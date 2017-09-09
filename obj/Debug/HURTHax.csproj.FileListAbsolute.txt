@@ -1,6 +1,0 @@
-C:\Users\Damian\Desktop\HurtHaxV2-20170909T152959Z-001\HurtHaxV2\obj\Debug\HURTHax.csprojResolveAssemblyReference.cache
-C:\Users\Damian\Desktop\HurtHaxV2-20170909T152959Z-001\HurtHaxV2\obj\Debug\HURTHax.csproj.CoreCompileInputs.cache
-C:\UnitySuite\Debug\HURTHax.dll
-C:\UnitySuite\Debug\HURTHax.pdb
-C:\Users\Damian\Desktop\HurtHaxV2-20170909T152959Z-001\HurtHaxV2\obj\Debug\HURTHax.dll
-C:\Users\Damian\Desktop\HurtHaxV2-20170909T152959Z-001\HurtHaxV2\obj\Debug\HURTHax.pdb
