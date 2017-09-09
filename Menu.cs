@@ -78,9 +78,9 @@ namespace HURTHax
 
             #endregion
 
-            if (Input.GetKeyDown(KeyCode.Z))
-                foreach (var monoBehaviour in ManagerPlayerOwner.GetComponents<Component>())
-                    print(monoBehaviour);
+            //if (Input.GetKeyDown(KeyCode.Z))
+            //    foreach (var monoBehaviour in ManagerPlayerOwner.GetComponents<Component>())
+            //        print(monoBehaviour);
 
             if (Input.GetMouseButton(3) && BaseSettings.GetSettings.AimBotSettings.IsEnabled)
                 if (_frameAimKey && Target != null)
